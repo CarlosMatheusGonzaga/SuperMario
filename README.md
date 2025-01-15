@@ -1,2 +1,2 @@
 # SuperMario
- Primeiro Projeto em HTML, CSS Javascript
+ Primeiro Projeto em HTML, CSS Javascript.
